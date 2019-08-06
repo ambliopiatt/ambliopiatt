@@ -81,7 +81,8 @@ iframe {
 }
 
 .icon{
-  max-width: 100%;  
+  max-width: 100%;
+  overflow: hidden;  
 }
 
 h4{
